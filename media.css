@@ -1,0 +1,1725 @@
+                                        @media only screen and (max-width: 791px) {
+                                            .signuppage .formsection .tapper {
+                                                height: 90vh!important;
+                                            }
+                                            .details {
+                                                width: 100%;
+                                                padding: 0 50px;
+                                                height: 40vh !important;
+                                            }
+                                            .details ul {
+                                                width: 100% !important;
+                                            }
+                                            .contact h2 {
+                                                font-size: 48px !important;
+                                            }
+                                            .contact .tapper:nth-child(2) {
+                                                height: 100vh !important;
+                                            }
+                                            .popup .tapper {
+                                                height: 35vh !important;
+                                                top: 0 !important;
+                                            }
+                                            .add_game_data .tapper {
+                                                height: 80vh !important;
+                                            }
+                                            .three .formsection .tapper:nth-child(1) .mobtap {
+                                                width: 100% !important;
+                                            }
+                                            .final-fantasy {
+                                                height: 15vh;
+                                                position: relative;
+                                                top: 60px;
+                                            }
+                                            .gamesSection .hero {
+                                                height: 40vh !important;
+                                            }
+                                            .gamesSection .top-sellers {
+                                                top: 0 !important;
+                                                height: 70vh !important;
+                                            }
+                                            .gamesSection .hero-text .lines {
+                                                width: 17%;
+                                                border-width: 2px;
+                                            }
+                                            .gamesSection .hero-text p {
+                                                width: 80% !important;
+                                            }
+                                            .gamesSection .formsection {
+                                                gap: 0 !important;
+                                                /* margin-top: 0 !important; */
+                                            }
+                                            .gamesSection .hero-text {
+                                                top: 80px !important;
+                                            }
+                                            .gamesSection .formsection {
+                                                gap: 0 !important;
+                                                /* margin-top: 0 !important; */
+                                            }
+                                            .htslower-line {
+                                                display: none;
+                                            }
+                                            .fs14 {
+                                                font-size: 14px;
+                                            }
+                                            .fs16 {
+                                                /* font-size: 1.1vw; */
+                                                font-size: 16px;
+                                                font-weight: normal;
+                                            }
+                                            .fs24 {
+                                                font-size: 24px;
+                                            }
+                                            .fs48 {
+                                                font-size: 48px;
+                                            }
+                                            .fs128 {
+                                                font-size: 44px;
+                                            }
+                                            .main-heading {
+                                                width: 100vw
+                                            }
+                                            .mnav {
+                                                display: block;
+                                            }
+                                            .dnav {
+                                                display: none;
+                                            }
+                                            .line-wrapper {
+                                                height: 70px;
+                                                position: relative;
+                                                left: -12px;
+                                                bottom: -8px;
+                                            }
+                                            .n {
+                                                display: none !important;
+                                            }
+                                            .border-icon {
+                                                border-bottom: 1px solid rgb(0, 0, 0) !important;
+                                                border-right: 0px solid rgb(0, 0, 0) !important;
+                                                ;
+                                            }
+                                            .border-icon::before {
+                                                width: 50px;
+                                                height: 4px;
+                                                background-color: black;
+                                                bottom: 0px;
+                                                right: 0;
+                                                /* left: 50%; */
+                                                margin-right: 0px;
+                                                left: -25px;
+                                                margin-left: 50%;
+                                                top: 100%;
+                                                margin-top: -2px;
+                                            }
+                                            .navbar {
+                                                height: auto;
+                                            }
+                                            footer {
+                                                margin-top: 0px;
+                                                height: 90vh;
+                                            }
+                                            footer .content {
+                                                margin-left: 0px;
+                                                box-sizing: border-box;
+                                            }
+                                            .upperline {
+                                                top: 150px;
+                                                left: -50px;
+                                            }
+                                            .content div:nth-child(1) {
+                                                margin-bottom: 50px;
+                                            }
+                                            .footerlist {
+                                                padding: 0 20px;
+                                            }
+                                            .lowerline {
+                                                /* width: 0%; */
+                                                display: block;
+                                                bottom: 150px;
+                                                right: -36%;
+                                                /* left: 0%; */
+                                                /* top: 0; */
+                                                transform: rotate(-90deg);
+                                            }
+                                            .lowerline svg:nth-child(2) {
+                                                display: none;
+                                            }
+                                            .comp-logo {
+                                                padding: 3rem 0 !important;
+                                            }
+                                            .Companyd p {
+                                                width: 50%;
+                                            }
+                                            .visa-img {
+                                                height: 37px;
+                                                margin-top: -35px;
+                                                width: 209px
+                                            }
+                                            .lowerfooter {
+                                                margin-top: 130px;
+                                                height: 100px;
+                                            }
+                                            .lowerfooter p {
+                                                width: 79%;
+                                            }
+                                            .account .hero {
+                                                height: 30vh !important;
+                                            }
+                                            .account .hero-text {
+                                                top: 100px !important;
+                                                /* top: 222.4px */
+                                            }
+                                            .account .hero-text h4 {
+                                                display: none !important;
+                                            }
+                                            /* homepage  */
+                                            .img1 {
+                                                /* position: relative; */
+                                                /* z-index: 99; */
+                                                left: 0;
+                                                top: 30px;
+                                                width: 100%;
+                                                height: 453px;
+                                                background: linear-gradient(166.69deg, rgba(249, 249, 249, 0) 45.73%, #F9F9F9 91.69%), linear-gradient(360deg, #F9F9F9 0%, rgba(244, 244, 244, 0) 18.85%), url('../media/images/zoltan-tasi-yURb9KJ8vdc-unsplash_mobile.png');
+                                                background-position: center !important;
+                                                background-repeat: no-repeat;
+                                                background-size: cover;
+                                            }
+                                            .line {
+                                                display: none;
+                                            }
+                                            .hero {
+                                                height: 72vh !important;
+                                            }
+                                            .home .hero-text {
+                                                width: 100%;
+                                                top: 353px;
+                                            }
+                                            .home .hero-text h4 {
+                                                justify-content: space-between;
+                                            }
+                                            .home .hero-text h2 {
+                                                text-align: center;
+                                                font-size: 50px;
+                                            }
+                                            .home .hero-text p {
+                                                text-align: center;
+                                                /* font-size: 44px; */
+                                                margin: 0 auto;
+                                                font-size: 16px;
+                                                opacity: 1 !important;
+                                                font-weight: lighter !important;
+                                            }
+                                            .home .hero-text .b1 {
+                                                top: 30px;
+                                                margin-left: 50%;
+                                                left: -97.5px;
+                                            }
+                                            .home .hero-text .b2 {
+                                                display: none !important;
+                                            }
+                                            .home .hero-text h4 .lines {
+                                                width: 25%;
+                                                border-bottom: 2px solid black;
+                                            }
+                                            .home .hero-text h4 .line1 {
+                                                display: block;
+                                            }
+                                            .img2 {
+                                                /* position: ; */
+                                                width: 95%;
+                                                height: 510px;
+                                                background-size: cover;
+                                                top: 0;
+                                            }
+                                            .about-line {
+                                                display: none;
+                                            }
+                                            .img2line {
+                                                display: block;
+                                                width: 413px;
+                                                top: 265px;
+                                                z-index: 2;
+                                            }
+                                            .home .about-text {
+                                                width: 80%;
+                                                margin-top: 530px;
+                                            }
+                                            .home .about-text p {
+                                                font-size: 16px;
+                                                opacity: 1 !important;
+                                                width: 92% !important;
+                                            }
+                                            .home .button {
+                                                width: 195px;
+                                                /* end homepage */
+                                            }
+                                            .home .comp-logo {
+                                                flex-wrap: wrap !important;
+                                                position: absolute;
+                                            }
+                                            .home .comp-logos {
+                                                width: 50%;
+                                                height: 50px;
+                                                margin-bottom: 20px;
+                                            }
+                                            .home .comp .line-wrapper {
+                                                top: 0;
+                                                left: 0;
+                                                height: 300px;
+                                            }
+                                            .top-sellers {
+                                                height: auto;
+                                            }
+                                            .gamesSection .top-sellers {
+                                                padding: 0 !important;
+                                            }
+                                            .grapic-1 svg,
+                                            .grapic-2 svg {
+                                                display: none !important;
+                                            }
+                                            .grapic-2 {
+                                                margin-top: 20px;
+                                                justify-content: center !important;
+                                            }
+                                            .grapic-1 h4 {
+                                                width: 100%;
+                                                text-align: center;
+                                            }
+                                            .game-cards {
+                                                flex-direction: column;
+                                                justify-content: space-between !important;
+                                                align-items: center;
+                                            }
+                                            .game-cards div {
+                                                margin: 10px 0;
+                                            }
+                                            .top-sellers h2 {
+                                                position: relative !important;
+                                                top: 0px;
+                                                width: 50% !important;
+                                                margin: auto;
+                                                text-align: center;
+                                                line-height: 0.9 !important;
+                                            }
+                                            .top-sellers .grapic-1 {
+                                                position: relative;
+                                                margin-top: 0 !important;
+                                                justify-content: center !important;
+                                                letter-spacing: 8.5%;
+                                            }
+                                            .bg .top-sellers {
+                                                position: relative;
+                                                margin-top: 120px;
+                                                padding: 0 !important;
+                                            }
+                                            .how-to-sell {
+                                                top: 165px;
+                                                position: relative;
+                                                height: 100vh;
+                                            }
+                                            .how-to-sell .back {
+                                                height: 100vh;
+                                                z-index: -1;
+                                            }
+                                            .how-to-sell .img-boxes.imgM1 {
+                                                display: none !important;
+                                            }
+                                            .how-to-sell .img-boxes.imgM {
+                                                width: 100%;
+                                                margin-top: -83px;
+                                            }
+                                            .img-box {
+                                                height: 30vh;
+                                            }
+                                            .hts-text {
+                                                position: relative;
+                                                width: 100vw;
+                                                /* top: 724.4px; */
+                                                left: 0;
+                                                padding: 0 0 0 20px;
+                                            }
+                                            .hts-text h2 {
+                                                width: 80%;
+                                            }
+                                            .hts-text h4 {
+                                                display: inline;
+                                                width: auto !important;
+                                                margin-top: 50px;
+                                            }
+                                            .hts-text p {
+                                                font-size: 16px;
+                                            }
+                                            .hts-graphic {
+                                                margin: 0%;
+                                                top: -55px;
+                                                /* left: 0; */
+                                                right: 0px;
+                                                z-index: -1;
+                                            }
+                                            .htc-g1 {
+                                                width: 420px;
+                                                /* height: 913px; */
+                                            }
+                                            .hts-graphic1 {
+                                                display: none;
+                                            }
+                                            /* 
+                    browser games
+                    */
+                                            /* 
+                    .hero-text {
+                        
+                    } */
+                                            /* 
+                    end browser games
+                    */
+                                            .bg .hero {
+                                                height: 20vh;
+                                            }
+                                            .bg .hero-text {
+                                                width: 100%;
+                                                top: 90px;
+                                            }
+                                            .bg .hero-text h4 {
+                                                justify-content: space-between;
+                                            }
+                                            .bg .hero-text h2 {
+                                                text-align: center;
+                                                font-size: 50px;
+                                            }
+                                            .loginpage .hero-text h2 {
+                                                text-align: center;
+                                                font-size: 50px;
+                                                width: 100%;
+                                            }
+                                            .bg .hst .hero-text h2 {
+                                                text-align: center;
+                                                font-size: 50px;
+                                                width: 100%;
+                                            }
+                                            .bg .hero-text p {
+                                                text-align: center;
+                                                /* font-size: 44px; */
+                                                margin: 0 auto;
+                                                font-size: 16px;
+                                                opacity: 1 !important;
+                                                font-weight: lighter !important;
+                                            }
+                                            .bg .hero-text h4 .lines {
+                                                width: 15%;
+                                                border-bottom: 2px solid black;
+                                            }
+                                            .bg .hero-text h4 .line1 {
+                                                display: block;
+                                            }
+                                            .bg .games .img-box {
+                                                height: 301px;
+                                                width: 218px
+                                            }
+                                            .games_slider {
+                                                padding-left: 30px;
+                                                display: block !important;
+                                            }
+                                            .nonslider {
+                                                display: none !important;
+                                            }
+                                            .owl-nav {
+                                                display: none !important;
+                                            }
+                                            .about-wrapper .aboutline {
+                                                width: 55vw;
+                                                display: none !important;
+                                            }
+                                            .mobline {
+                                                top: 40px;
+                                                width: 410px;
+                                                position: absolute;
+                                                display: block !important;
+                                            }
+                                            .about-wrapper .hero-text {
+                                                position: relative;
+                                                width: 100%;
+                                                top: 90px;
+                                                left: 0;
+                                            }
+                                            .about-wrapper .hero-text h2,
+                                            .about-wrapper .hero-text p {
+                                                position: relative;
+                                                text-align: center;
+                                                left: 0;
+                                                width: 60%;
+                                                margin: auto;
+                                            }
+                                            .about-wrapper .hero-text p {
+                                                /* left: ; */
+                                                text-align: center;
+                                                font-size: 16px;
+                                                width: 80% !important;
+                                                opacity: 1 !important;
+                                            }
+                                            .about-wrapper .img-box {
+                                                position: relative;
+                                                z-index: 2;
+                                                width: 100%;
+                                                height: 518px;
+                                            }
+                                            .about-wrapper .pom .img-box {
+                                                margin: -50px 0 !important;
+                                            }
+                                            .about-wrapper .hero {
+                                                flex-direction: column;
+                                            }
+                                            .about-wrapper footer {
+                                                top: 0;
+                                            }
+                                            .about-wrapper .cus {
+                                                position: relative;
+                                                top: 100px;
+                                            }
+                                            .about-wrapper .cus .back {
+                                                clip-path: polygon(0 0, 100% 6%, 100% 100%, 0 94%) !important;
+                                                height: 90vh;
+                                            }
+                                            .aboutline3 {
+                                                top: 80px;
+                                                width: 100% !important;
+                                            }
+                                            .img-desk {
+                                                display: none;
+                                            }
+                                            .mobimg {
+                                                display: block;
+                                            }
+                                            .about-wrapper .cus .img-boxes {
+                                                width: 100%;
+                                                background: url(/assets/media/images/aboutImage2.png);
+                                                mix-blend-mode: lighten;
+                                                background-size: contain;
+                                                background-repeat: no-repeat;
+                                                position: absolute;
+                                                top: 57%;
+                                            }
+                                            .about-wrapper .cus .about-text {
+                                                top: 0;
+                                                left: 0px;
+                                                position: relative;
+                                                /* margin-left: -90px; */
+                                                width: 100%;
+                                                margin-top: 0;
+                                            }
+                                            .about-wrapper .cus .about-text h2,
+                                            .about-wrapper .cus .about-text p,
+                                            .about-wrapper .pom .hero-text h2,
+                                            .about-wrapper .pom .hero-text p {
+                                                /* left: ; */
+                                                text-align: center;
+                                                width: 70%;
+                                                margin: auto;
+                                                position: relative;
+                                                left: 0vw;
+                                            }
+                                            .about-wrapper .cus .about-text p,
+                                            .about-wrapper .pom .hero-text p {
+                                                font-size: 16px;
+                                                width: 60% !important;
+                                            }
+                                            .about-wrapper .pom .hero-text p {
+                                                font-size: 16px;
+                                                width: 80% !important;
+                                            }
+                                            .about-wrapper .cus .about-text {
+                                                top: 0;
+                                            }
+                                            .grapiclines,
+                                            .char-box {
+                                                display: none;
+                                            }
+                                            .tapperbox {
+                                                width: 90vw;
+                                            }
+                                            .tapperbox .text .number {
+                                                font-size: 60px;
+                                            }
+                                            .tapperbox .text h3 {
+                                                font-size: 34px;
+                                            }
+                                            .tapperbox .text p {
+                                                font-size: 16px;
+                                            }
+                                            .graline {
+                                                width: 77.276vw !important;
+                                                bottom: 20px !important;
+                                                left: 4.224vw !important;
+                                            }
+                                            .tapper {
+                                                /* clip-path: polygon(0 40.00px, 40.00px 0, 100% 0, 100% calc(100% - 40.00px), calc(100% - 40.00px) 100%, 0 100%, 0 40.00px, 1px calc(40.00px + 0.41px), 1px calc(100% - 1px), calc(100% - 40.00px - 0.41px) calc(100% - 1px), calc(100% - 1px) calc(100% - 40.00px - 0.41px), calc(100% - 1px) 1px, calc(40.00px + 0.41px) 1px, 1px calc(40.00px + 0.41px)); */
+                                                /* clip-path: none; */
+                                                clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+                                                width: 100% !important;
+                                                height: auto;
+                                                /* background-color: red; */
+                                                position: relative;
+                                                margin-top: 0px;
+                                                margin-left: 0px;
+                                            }
+                                            .hts {
+                                                height: 190vh !important;
+                                            }
+                                            footer {
+                                                top: 0
+                                            }
+                                            .loginpage .formsection .tapper {
+                                                width: 100%;
+                                            }
+                                            .loginimg1 {
+                                                display: none;
+                                            }
+                                            .loginimg2 {
+                                                display: none;
+                                            }
+                                            .loginpage .hero {
+                                                height: auto !important;
+                                            }
+                                            .btns {
+                                                display: none;
+                                            }
+                                            .mobdash {
+                                                display: block;
+                                            }
+                                            .dashtext p {
+                                                width: 100% !important;
+                                                line-height: 25.13px;
+                                                font-size: 16px;
+                                            }
+                                            .dashtext h2 {
+                                                font-size: 48px;
+                                            }
+                                            .headings {
+                                                display: none;
+                                            }
+                                            .dashorders .tapper {
+                                                height: auto;
+                                            }
+                                            .dashorders .tapper .inside {
+                                                clip-path: inset(0 0 0 0);
+                                                padding-bottom: 50px !important;
+                                            }
+                                            .ms {
+                                                visibility: visible;
+                                            }
+                                            .dashorders table {
+                                                width: 90%;
+                                                margin: auto;
+                                            }
+                                            .subtext {
+                                                /* text-align: ce; */
+                                                font-size: 48px !important;
+                                            }
+                                            .itemstext,
+                                            .price {
+                                                font-size: 34px !important;
+                                                width: 50% !important;
+                                                margin: 0 !important;
+                                                text-align: left !important;
+                                            }
+                                            .pbtns {
+                                                display: grid !important;
+                                            }
+                                            .account .btns a {
+                                                left: -10px !important;
+                                            }
+                                            .loginform {
+                                                top: 0 !important;
+                                            }
+                                        }
+                                        
+                                        @media screen and (min-width: 791px) and (max-width: 991px) {
+                                            .signuppage .formsection .tapper {
+                                                height: 90vh!important;
+                                            }
+                                            .details {
+                                                width: 100%;
+                                                padding: 0 50px;
+                                                height: 40vh !important;
+                                            }
+                                            .details ul {
+                                                width: 100% !important;
+                                            }
+                                            .contact h2 {
+                                                font-size: 48px !important;
+                                            }
+                                            .contact .tapper:nth-child(2) {
+                                                height: 50vh !important;
+                                            }
+                                            .add_game_data .tapper {
+                                                height: 70vh !important;
+                                            }
+                                            .popup .tapper {
+                                                height: 50vh !important;
+                                                top: 0 !important;
+                                            }
+                                            .three .formsection .tapper:nth-child(2) .mobtap {
+                                                width: 75% !important;
+                                            }
+                                            .final-fantasy {
+                                                height: 25vh;
+                                                position: relative;
+                                                top: 60px;
+                                            }
+                                            .gamesSection .hero {
+                                                height: 30vh !important;
+                                            }
+                                            .gamesSection .top-sellers {
+                                                top: 0 !important;
+                                                height: 70vh !important;
+                                            }
+                                            .gamesSection .formsection {
+                                                gap: 0 !important;
+                                                /* margin-top: 0 !important; */
+                                            }
+                                            .gamesSection .hero-text {
+                                                top: 150px !important;
+                                            }
+                                            .htslower-line {
+                                                display: none;
+                                            }
+                                            .fs14 {
+                                                font-size: 14px;
+                                            }
+                                            .fs16 {
+                                                /* font-size: 1.1vw; */
+                                                font-size: 16px;
+                                                font-weight: normal;
+                                            }
+                                            .fs24 {
+                                                font-size: 24px;
+                                            }
+                                            .fs48 {
+                                                font-size: 48px;
+                                            }
+                                            .fs128 {
+                                                font-size: 44px;
+                                            }
+                                            .main-heading {
+                                                width: 100vw
+                                            }
+                                            .mnav {
+                                                display: block;
+                                            }
+                                            .dnav {
+                                                display: none;
+                                            }
+                                            .line-wrapper {
+                                                height: 70px;
+                                                position: relative;
+                                                left: -12px;
+                                                bottom: -8px;
+                                            }
+                                            .border-icon {
+                                                border-bottom: 1px solid rgb(0, 0, 0) !important;
+                                                border-right: 0px solid rgb(0, 0, 0) !important;
+                                                ;
+                                            }
+                                            .border-icon::before {
+                                                width: 50px;
+                                                height: 4px;
+                                                background-color: black;
+                                                bottom: 0px;
+                                                right: 0;
+                                                /* left: 50%; */
+                                                margin-right: 0px;
+                                                left: -25px;
+                                                margin-left: 50%;
+                                                top: 100%;
+                                                margin-top: -2px;
+                                            }
+                                            .navbar {
+                                                height: auto;
+                                            }
+                                            footer {
+                                                margin-top: 0px;
+                                                height: 90vh;
+                                            }
+                                            footer .content {
+                                                margin-left: 0px;
+                                                box-sizing: border-box;
+                                            }
+                                            .upperline {
+                                                top: 150px;
+                                                left: -50px;
+                                            }
+                                            .content div:nth-child(1) {
+                                                margin-bottom: 50px;
+                                            }
+                                            .footerlist {
+                                                padding: 0 20px;
+                                            }
+                                            .lowerline {
+                                                /* width: 0%; */
+                                                display: block;
+                                                bottom: 150px;
+                                                right: -36%;
+                                                /* left: 0%; */
+                                                /* top: 0; */
+                                                transform: rotate(-90deg);
+                                            }
+                                            .lowerline svg:nth-child(2) {
+                                                display: none;
+                                            }
+                                            .Companyd p {
+                                                width: 50%;
+                                            }
+                                            .visa-img {
+                                                height: 37px;
+                                                margin-top: -35px;
+                                                width: 209px
+                                            }
+                                            .lowerfooter {
+                                                margin-top: 130px;
+                                                height: 100px;
+                                            }
+                                            .lowerfooter p {
+                                                width: 79%;
+                                            }
+                                            .account .hero {
+                                                height: 30vh !important;
+                                            }
+                                            .account .hero-text {
+                                                top: 100px !important;
+                                                /* top: 222.4px */
+                                            }
+                                            .account .hero-text h4 {
+                                                display: none !important;
+                                            }
+                                            /* homepage  */
+                                            .img1 {
+                                                /* position: relative; */
+                                                /* z-index: 99; */
+                                                left: 0;
+                                                top: 30px;
+                                                width: 100%;
+                                                height: 453px;
+                                                background: linear-gradient(166.69deg, rgba(249, 249, 249, 0) 45.73%, #F9F9F9 91.69%), linear-gradient(360deg, #F9F9F9 0%, rgba(244, 244, 244, 0) 18.85%), url('../media/images/zoltan-tasi-yURb9KJ8vdc-unsplash_mobile.png');
+                                                background-position: center !important;
+                                                background-repeat: no-repeat;
+                                                background-size: cover;
+                                            }
+                                            .line {
+                                                display: none;
+                                            }
+                                            .hero {
+                                                height: 72vh;
+                                            }
+                                            .home .hero-text {
+                                                width: 100%;
+                                                top: 353px;
+                                            }
+                                            .home .hero-text h4 {
+                                                justify-content: space-between;
+                                            }
+                                            .home .hero-text h2 {
+                                                text-align: center;
+                                                font-size: 50px;
+                                            }
+                                            .home .hero-text p {
+                                                text-align: center;
+                                                /* font-size: 44px; */
+                                                margin: 0 auto;
+                                                font-size: 16px;
+                                                opacity: 1 !important;
+                                                font-weight: lighter !important;
+                                            }
+                                            .home .hero-text .b1 {
+                                                top: 30px;
+                                                margin-left: 50%;
+                                                left: -97.5px;
+                                            }
+                                            .home .hero-text .b2 {
+                                                display: none !important;
+                                            }
+                                            .home .hero-text h4 .lines {
+                                                width: 25%;
+                                                border-bottom: 2px solid black;
+                                            }
+                                            .home .hero-text h4 .line1 {
+                                                display: block;
+                                            }
+                                            .img2 {
+                                                /* position: ; */
+                                                width: 95%;
+                                                height: 510px;
+                                                background-size: cover;
+                                            }
+                                            .about-line {
+                                                display: none;
+                                            }
+                                            .img2line {
+                                                display: block;
+                                                width: 413px;
+                                                top: 265px;
+                                                z-index: 2;
+                                            }
+                                            .home .about-text {
+                                                width: 80%;
+                                                margin-top: 530px;
+                                            }
+                                            .home .about-text p {
+                                                font-size: 16px;
+                                                opacity: 1 !important;
+                                                width: 92% !important;
+                                            }
+                                            .home .button {
+                                                width: 195px;
+                                                /* end homepage */
+                                            }
+                                            .home .comp-logo {
+                                                flex-wrap: wrap !important;
+                                                position: absolute;
+                                            }
+                                            .home .comp-logos {
+                                                width: 50%;
+                                                height: 50px;
+                                                margin-bottom: 20px;
+                                            }
+                                            .home .comp .line-wrapper {
+                                                top: 0;
+                                                left: 0;
+                                                height: 300px;
+                                            }
+                                            .top-sellers {
+                                                height: auto;
+                                            }
+                                            .bg .top-sellers {
+                                                height: 52vh;
+                                            }
+                                            .grapic-1 svg,
+                                            .grapic-2 svg {
+                                                display: none !important;
+                                            }
+                                            .grapic-2 {
+                                                margin-top: 20px;
+                                                justify-content: center !important;
+                                            }
+                                            .game-cards {
+                                                flex-direction: column;
+                                                justify-content: space-between !important;
+                                                align-items: center;
+                                            }
+                                            .game-cards div {
+                                                margin: 10px 0;
+                                            }
+                                            .top-sellers h2 {
+                                                position: relative !important;
+                                                top: 0px;
+                                                width: 50% !important;
+                                                margin: auto;
+                                                text-align: center;
+                                            }
+                                            .top-sellers .grapic-1 {
+                                                position: relative;
+                                                margin-top: 0 !important;
+                                                justify-content: center !important;
+                                                letter-spacing: 8.5%;
+                                            }
+                                            .how-to-sell {
+                                                top: 100px;
+                                                position: relative;
+                                                /* height: 92vh; */
+                                            }
+                                            .how-to-sell .back {
+                                                height: 100vh;
+                                                z-index: -1;
+                                            }
+                                            .how-to-sell .img-boxes.imgM1 {
+                                                display: none !important;
+                                            }
+                                            .how-to-sell .img-boxes.imgM {
+                                                width: 100%;
+                                                margin-top: -83px;
+                                            }
+                                            .img-box {
+                                                height: 30vh;
+                                            }
+                                            .hts-text {
+                                                position: relative;
+                                                width: 100vw;
+                                                /* top: 724.4px; */
+                                                left: 0;
+                                                padding: 0 0 0 20px;
+                                            }
+                                            .hts-text h2 {
+                                                width: 80%;
+                                            }
+                                            .hts-text h4 {
+                                                display: inline;
+                                                width: auto !important;
+                                                margin-top: 50px;
+                                            }
+                                            .hts-text p {
+                                                font-size: 16px;
+                                            }
+                                            .hts-graphic {
+                                                margin: 0%;
+                                                top: -55px;
+                                                /* left: 0; */
+                                                right: 0px;
+                                                z-index: -1;
+                                            }
+                                            .htc-g1 {
+                                                width: 420px;
+                                                /* height: 913px; */
+                                            }
+                                            footer {
+                                                height: 60vh;
+                                            }
+                                            .lowerline {
+                                                /* width: 0%; */
+                                                display: block;
+                                                /* top: 200px; */
+                                                bottom: 350px;
+                                                right: -40%;
+                                                /* left: 50%; */
+                                                /* top: 0; */
+                                                transform: rotate(-90deg);
+                                            }
+                                            .lowerfooter {
+                                                margin-top: 130px;
+                                                height: 100px;
+                                            }
+                                            .account .hero {
+                                                height: 30vh !important;
+                                            }
+                                            .account .hero-text {
+                                                top: 100px !important;
+                                                /* top: 222.4px */
+                                            }
+                                            .account .hero-text h4 {
+                                                display: none !important;
+                                            }
+                                            /* homepage  */
+                                            .img1 {
+                                                /* position: relative; */
+                                                /* z-index: 99; */
+                                                left: 0;
+                                                top: 0px;
+                                                /* margin-top: 200px; */
+                                                width: 100%;
+                                                height: 600px;
+                                                background: linear-gradient(166.69deg, rgba(249, 249, 249, 0) 45.73%, #F9F9F9 91.69%), linear-gradient(360deg, #F9F9F9 0%, rgba(244, 244, 244, 0) 18.85%), url('../media/images/zoltan-tasi-yURb9KJ8vdc-unsplash_mobile.png');
+                                                background-position: center !important;
+                                                background-repeat: no-repeat;
+                                                background-size: contain;
+                                            }
+                                            .hero {
+                                                height: 72vh;
+                                            }
+                                            .home .hero-text {
+                                                width: 100%;
+                                                top: 420px;
+                                            }
+                                            .img2 {
+                                                /* position: ; */
+                                                width: 80%;
+                                                height: 900px;
+                                                background-size: cover;
+                                                top: 0;
+                                            }
+                                            .img2line {
+                                                display: block;
+                                                width: 810px;
+                                                top: 350px;
+                                                z-index: -1;
+                                            }
+                                            .home .about-text {
+                                                width: 80%;
+                                                margin-top: 930px;
+                                            }
+                                            .home .comp-logo {
+                                                flex-wrap: wrap !important;
+                                                position: absolute;
+                                            }
+                                            .home .comp-logos {
+                                                width: 50%;
+                                                height: 70px;
+                                                margin-bottom: 20px;
+                                                margin-top: 20px;
+                                            }
+                                            .game-cards {
+                                                width: 100%;
+                                                flex-direction: row;
+                                                flex-wrap: wrap;
+                                                justify-content: center !important;
+                                                align-items: center;
+                                            }
+                                            .game-cards div {
+                                                /* width: 50%; */
+                                                margin: 10px 10px;
+                                            }
+                                            .how-to-sell {
+                                                top: 300px;
+                                                position: relative;
+                                                height: 110vh;
+                                            }
+                                            .how-to-sell .back {
+                                                height: 100vh;
+                                                z-index: -1;
+                                            }
+                                            .how-to-sell .img-boxes.imgM {
+                                                width: 100%;
+                                                margin-top: -170px;
+                                            }
+                                            .img-box {
+                                                height: 45vh;
+                                            }
+                                            .hts-graphic {
+                                                margin: 0%;
+                                                top: -55px;
+                                                /* left: 0; */
+                                                right: 0px;
+                                                z-index: -1;
+                                            }
+                                            .htc-g1 {
+                                                width: 820px;
+                                                height: 613px;
+                                            }
+                                            .hts-graphic1 {
+                                                display: none;
+                                            }
+                                            .bg .hero {
+                                                height: 20vh;
+                                            }
+                                            .bg .hero-text {
+                                                width: 100%;
+                                                top: 90px;
+                                            }
+                                            .bg .hero-text h4 {
+                                                justify-content: space-between;
+                                            }
+                                            .bg .hero-text h2 {
+                                                text-align: center;
+                                                font-size: 50px;
+                                            }
+                                            .bg .hero-text p {
+                                                text-align: center;
+                                                /* font-size: 44px; */
+                                                margin: 0 auto;
+                                                font-size: 16px;
+                                                opacity: 1 !important;
+                                                font-weight: lighter !important;
+                                            }
+                                            .bg .hero-text h4 .lines {
+                                                width: 15%;
+                                                border-bottom: 2px solid black;
+                                            }
+                                            .bg .hero-text h4 .line1 {
+                                                display: block;
+                                            }
+                                            .games_slider {
+                                                padding-left: 30px;
+                                                display: block !important;
+                                                flex-wrap: nowrap;
+                                            }
+                                            .nonslider {
+                                                display: none !important;
+                                            }
+                                            .owl-nav {
+                                                display: none !important;
+                                            }
+                                            .games {
+                                                position: relative;
+                                                top: 200px;
+                                            }
+                                            .about-wrapper .aboutline {
+                                                width: 55vw;
+                                                display: none !important;
+                                            }
+                                            .about-wrapper .lowerfooter {
+                                                margin-top: 10px;
+                                            }
+                                            .mobline {
+                                                top: 40px;
+                                                width: 410px;
+                                                position: absolute;
+                                                display: block !important;
+                                            }
+                                            .about-wrapper .hero-text {
+                                                position: relative;
+                                                width: 100%;
+                                                top: 90px;
+                                                left: 0;
+                                            }
+                                            .about-wrapper .hero-text h2,
+                                            .about-wrapper .hero-text p {
+                                                position: relative;
+                                                text-align: center;
+                                                left: 0;
+                                                width: 60%;
+                                                margin: auto;
+                                            }
+                                            .about-wrapper .hero-text p {
+                                                /* left: ; */
+                                                text-align: center;
+                                                font-size: 16px;
+                                                width: 80% !important;
+                                                opacity: 1 !important;
+                                            }
+                                            .about-wrapper .img-box {
+                                                position: relative;
+                                                z-index: 2;
+                                                top: 210px;
+                                                width: 100%;
+                                                height: 518px;
+                                            }
+                                            .about-wrapper .pom .img-box {
+                                                margin: -50px 0 !important;
+                                            }
+                                            .about-wrapper .hero {
+                                                flex-direction: column;
+                                            }
+                                            .about-wrapper footer {
+                                                top: 0px;
+                                            }
+                                            .about-wrapper .cus {
+                                                position: relative;
+                                                top: 100px;
+                                                /* height: 50vh; */
+                                            }
+                                            .about-wrapper .cus .back {
+                                                clip-path: polygon(0 0, 100% 6%, 100% 100%, 0 94%) !important;
+                                                height: 90vh;
+                                            }
+                                            .aboutline3 {
+                                                top: 80px;
+                                                width: 100% !important;
+                                            }
+                                            .img-desk {
+                                                display: none;
+                                            }
+                                            .mobimg {
+                                                display: block;
+                                            }
+                                            .about-wrapper .pom .img-desk {
+                                                display: block;
+                                            }
+                                            .about-wrapper .pom .mobimg {
+                                                display: none;
+                                            }
+                                            .about-wrapper .cus .img-boxes {
+                                                width: 100%;
+                                                background: url(/assets/media/images/aboutImage2.png);
+                                                mix-blend-mode: lighten;
+                                                background-size: contain;
+                                                background-repeat: no-repeat;
+                                                position: absolute;
+                                                top: 39%;
+                                            }
+                                            .about-wrapper .cus .about-text {
+                                                top: 0;
+                                                left: 0px;
+                                                position: relative;
+                                                /* margin-left: -90px; */
+                                                width: 100%;
+                                                margin-top: 0;
+                                            }
+                                            .about-wrapper .cus .about-text h2,
+                                            .about-wrapper .cus .about-text p,
+                                            .about-wrapper .pom .hero-text h2,
+                                            .about-wrapper .pom .hero-text p {
+                                                /* left: ; */
+                                                text-align: center;
+                                                width: 70%;
+                                                margin: auto;
+                                                position: relative;
+                                                left: 0vw;
+                                            }
+                                            .about-wrapper .cus .about-text p,
+                                            .about-wrapper .pom .hero-text p {
+                                                font-size: 16px;
+                                                width: 60% !important;
+                                            }
+                                            .about-wrapper .pom {
+                                                height: 75vh !important;
+                                            }
+                                            .about-wrapper .pom .hero-text p {
+                                                font-size: 16px;
+                                                width: 80% !important;
+                                            }
+                                            .about-wrapper .cus .about-text {
+                                                top: 0;
+                                            }
+                                            .grapiclines,
+                                            .char-box {
+                                                display: none;
+                                            }
+                                            .tapperbox {
+                                                width: 90vw;
+                                            }
+                                            .tapperbox .text .number {
+                                                font-size: 60px;
+                                            }
+                                            .tapperbox .text h3 {
+                                                font-size: 34px;
+                                            }
+                                            .tapperbox .text p {
+                                                font-size: 16px;
+                                            }
+                                            .graline {
+                                                width: 80vw !important;
+                                                bottom: 20px !important;
+                                                left: 4.224vw !important;
+                                            }
+                                            .tapper {
+                                                /* clip-path: polygon(0 40.00px, 40.00px 0, 100% 0, 100% calc(100% - 40.00px), calc(100% - 40.00px) 100%, 0 100%, 0 40.00px, 1px calc(40.00px + 0.41px), 1px calc(100% - 1px), calc(100% - 40.00px - 0.41px) calc(100% - 1px), calc(100% - 1px) calc(100% - 40.00px - 0.41px), calc(100% - 1px) 1px, calc(40.00px + 0.41px) 1px, 1px calc(40.00px + 0.41px)); */
+                                                /* clip-path: none; */
+                                                clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+                                                width: 100% !important;
+                                                height: auto;
+                                                /* background-color: red; */
+                                                position: relative;
+                                                margin-top: 0px;
+                                                margin-left: 0px;
+                                            }
+                                            .hts {
+                                                height: 160vh !important;
+                                            }
+                                            footer {
+                                                top: 0
+                                            }
+                                            .loginpage .formsection .tapper {
+                                                width: 80% !important;
+                                            }
+                                            .loginimg1 {
+                                                display: none;
+                                            }
+                                            .loginimg2 {
+                                                display: none;
+                                            }
+                                            .loginpage .hero {
+                                                height: auto !important;
+                                            }
+                                            .btns {
+                                                display: none;
+                                            }
+                                            .mobdash {
+                                                display: block;
+                                                width: 35% !important;
+                                            }
+                                            .dashtext p {
+                                                width: 100% !important;
+                                                line-height: 25.13px;
+                                                font-size: 16px;
+                                            }
+                                            .dashtext h2 {
+                                                font-size: 48px;
+                                            }
+                                            .btns {
+                                                display: none;
+                                            }
+                                            .mobdash {
+                                                display: block;
+                                            }
+                                            .dashtext p {
+                                                width: 100% !important;
+                                                line-height: 25.13px;
+                                                font-size: 16px;
+                                            }
+                                            .dashtext h2 {
+                                                font-size: 48px;
+                                            }
+                                            .headings {
+                                                display: none;
+                                            }
+                                            .dashorders .tapper {
+                                                height: auto;
+                                            }
+                                            .dashorders .tapper .inside {
+                                                clip-path: inset(0 0 0 0);
+                                                padding-bottom: 50px !important;
+                                            }
+                                            .ms {
+                                                visibility: visible;
+                                            }
+                                            .dashorders table {
+                                                width: 90%;
+                                                margin: auto;
+                                            }
+                                            .subtext {
+                                                /* text-align: ce; */
+                                                font-size: 48px !important;
+                                            }
+                                            .itemstext,
+                                            .price {
+                                                font-size: 34px !important;
+                                                width: 50% !important;
+                                                margin: 0 !important;
+                                                text-align: left !important;
+                                            }
+                                            .pbtns {
+                                                display: grid !important;
+                                            }
+                                            .account .btns a {
+                                                left: -10px !important;
+                                            }
+                                            .bg footer {
+                                                position: relative;
+                                                top: 150px;
+                                            }
+                                            /* .about-wrapper footer {
+                                                position: relative;
+                                                top: 100px;
+                                            } */
+                                            .about-wrapper .pom .img-box {
+                                                margin: -250px 0 !important;
+                                            }
+                                        }
+                                        
+                                        @media screen and (min-width: 991px)and (max-width: 1280px) {
+                                            .signuppage .loginimg1 {
+                                                /* top: 0px !important; */
+                                                bottom: 570px !important;
+                                            }
+                                            .signuppage .hero {
+                                                height: 180vh !important;
+                                            }
+                                            .signuppage .formsection .tapper {
+                                                height: 100vh!important;
+                                                /* width: 90% !important; */
+                                                width: 30% !important;
+                                            }
+                                            .signuppage .formsection {
+                                                /* height: 90vh!important; */
+                                                top: 50px !important;
+                                            }
+                                            .signuppage .formsection .tapper {
+                                                /* height: 90vh!important; */
+                                                /* width: 90% !important; */
+                                                width: 60% !important;
+                                            }
+                                            .details {
+                                                width: 30% !important;
+                                                padding: 0 50px;
+                                                height: 40vh !important;
+                                            }
+                                            .details ul {
+                                                width: 100% !important;
+                                            }
+                                            .contact h2 {
+                                                font-size: 48px !important;
+                                            }
+                                            .contact .tapper:nth-child(2) {
+                                                width: 60% !important;
+                                                height: 65vh !important;
+                                            }
+                                            .popup .formsection {
+                                                top: 0 !important;
+                                            }
+                                            .popup .tapper {
+                                                height: 60vh !important;
+                                            }
+                                            .final-fantasy {
+                                                height: 50vh;
+                                                position: relative;
+                                                top: 0px;
+                                            }
+                                            /* .gamesSection .hero {
+                                                height: 30vh !important;
+                                            } */
+                                            /* .gamesSection .top-sellers {
+                                                top: 0 !important;
+                                                height: 70vh !important;
+                                            } */
+                                            .gamesSection .formsection {
+                                                /* gap: 0 !important; */
+                                                margin-top: 0px !important;
+                                                top: 0 !important;
+                                            }
+                                            /*
+                                            .gamesSection .hero-text {
+                                                top: 150px !important;
+                                            } */
+                                            .nav-item {
+                                                color: black;
+                                                font-family: "Suisse Int'l Trial";
+                                                font-size: 12px;
+                                                /* letter-spacing: 1.25%; */
+                                                font-weight: 500;
+                                            }
+                                            .navs {
+                                                right: 60px
+                                            }
+                                            .comp {
+                                                position: relative;
+                                                top: 100px;
+                                            }
+                                            .top-sellers {
+                                                top: 120px;
+                                            }
+                                            .hts-graphic1 {
+                                                /* left: 180px; */
+                                                top: -105px;
+                                                /* display: none; */
+                                                margin: 0 40px;
+                                                width: 1075px;
+                                                /* width: 1155px; */
+                                            }
+                                            .lowerfooter {
+                                                margin-top: 200px;
+                                            }
+                                            .about .about-line {
+                                                width: 100%;
+                                                top: -55px;
+                                                left: 22%;
+                                                z-index: 1;
+                                            }
+                                            .about .about-line svg {
+                                                width: 960px;
+                                                height: 367px;
+                                            }
+                                            .img2 {
+                                                position: absolute;
+                                                width: 100.8135%;
+                                                height: 830px;
+                                                /* top: 800px; */
+                                                right: 0%;
+                                                background: url(../media/images/flying_Asset.png);
+                                                background-repeat: no-repeat;
+                                                background-size: contain;
+                                                background-position: right;
+                                                z-index: 3;
+                                            }
+                                            .about-wrapper .img-box {
+                                                position: relative;
+                                                z-index: 2;
+                                                top: 20px;
+                                            }
+                                            .about-wrapper .cus .back {
+                                                /* clip-path: polygon(0 0, 100% 6%, 100% 100%, 0 94%) !important; */
+                                                height: 90vh;
+                                            }
+                                            .aboutline3 {
+                                                left: 60px;
+                                                /* width: 100% !important; */
+                                            }
+                                            .about-wrapper .cus {
+                                                overflow: hidden;
+                                                height: 90vh;
+                                            }
+                                            .about-wrapper footer {
+                                                position: relative;
+                                                top: 0px;
+                                            }
+                                            .about-wrapper .lowerfooter {
+                                                margin-top: 0px;
+                                            }
+                                            .about-wrapper .pom {
+                                                margin-top: -50px;
+                                            }
+                                        }
+                                        
+                                        @media screen and (min-width: 1290px)and (max-width: 1480px) {
+                                            .signuppage .formsection .tapper {
+                                                /* height: 0vh!important; */
+                                                top: 0 !important;
+                                                width: 60% !important;
+                                            }
+                                            .signuppage .formsection {
+                                                /* height: 90vh!important; */
+                                                top: 50px !important;
+                                            }
+                                            .signuppage .loginimg1 {
+                                                /* top: 0px !important; */
+                                                bottom: 95px !important;
+                                            }
+                                            .signuppage footer {
+                                                top: 0 !important;
+                                            }
+                                            .details {
+                                                width: 30% !important;
+                                                padding: 0 50px;
+                                                height: 40vh !important;
+                                            }
+                                            .details ul {
+                                                width: 100% !important;
+                                            }
+                                            .contact h2 {
+                                                font-size: 48px !important;
+                                            }
+                                            .contact .tapper:nth-child(2) {
+                                                width: 60% !important;
+                                                height: 65vh !important;
+                                            }
+                                            .popup .formsection {
+                                                top: 0 !important;
+                                            }
+                                            .popup .tapper {
+                                                height: 50vh !important;
+                                            }
+                                            .add_game_data .tapper {
+                                                height: 70vh !important;
+                                            }
+                                            .final-fantasy {
+                                                height: 60vh;
+                                                position: relative;
+                                                top: 0px;
+                                            }
+                                            /* .gamesSection .hero {
+                                                height: 30vh !important;
+                                            } */
+                                            /* .gamesSection .top-sellers {
+                                                top: 0 !important;
+                                                height: 70vh !important;
+                                            } */
+                                            .gamesSection .formsection {
+                                                /* gap: 0 !important; */
+                                                margin-top: 0px !important;
+                                                top: 0 !important;
+                                            }
+                                            .nav-item {
+                                                color: black;
+                                                font-family: "Suisse Int'l Trial";
+                                                font-size: 12px;
+                                                /* letter-spacing: 1.25%; */
+                                                font-weight: 500;
+                                            }
+                                            .navs {
+                                                right: 60px
+                                            }
+                                            .comp {
+                                                position: relative;
+                                                top: 100px;
+                                            }
+                                            .top-sellers {
+                                                top: 120px;
+                                            }
+                                            .hts-graphic1 {
+                                                /* left: 180px; */
+                                                top: -85px;
+                                                /* display: none; */
+                                                margin: 0 50px;
+                                                width: 1199px;
+                                                /* width: 1155px; */
+                                            }
+                                            .lowerfooter {
+                                                margin-top: 100px;
+                                            }
+                                            .about .about-line {
+                                                width: 100%;
+                                                top: -39px;
+                                                left: 22%;
+                                                z-index: 1;
+                                            }
+                                            .about .about-line svg {
+                                                width: 1080px;
+                                                height: 367px;
+                                            }
+                                            .img2 {
+                                                position: absolute;
+                                                width: 100.8135%;
+                                                height: 830px;
+                                                /* top: 800px; */
+                                                right: 0%;
+                                                background: url(../media/images/flying_Asset.png);
+                                                background-repeat: no-repeat;
+                                                background-size: contain;
+                                                background-position: right;
+                                                z-index: 3;
+                                            }
+                                            .about .about-line {
+                                                width: 100%;
+                                                top: -55px;
+                                                left: 22%;
+                                                z-index: 1;
+                                            }
+                                            .about .about-line svg {
+                                                width: 960px;
+                                                height: 367px;
+                                            }
+                                            .img2 {
+                                                position: absolute;
+                                                width: 100.8135%;
+                                                height: 830px;
+                                                /* top: 800px; */
+                                                right: 0%;
+                                                background: url(../media/images/flying_Asset.png);
+                                                background-repeat: no-repeat;
+                                                background-size: contain;
+                                                background-position: right;
+                                                z-index: 3;
+                                            }
+                                            .about-wrapper .img-box {
+                                                position: relative;
+                                                z-index: 2;
+                                                top: 20px;
+                                            }
+                                            .about-wrapper .cus .back {
+                                                /* clip-path: polygon(0 0, 100% 6%, 100% 100%, 0 94%) !important; */
+                                                height: 85vh;
+                                            }
+                                            .aboutline3 {
+                                                left: 60px;
+                                                /* width: 100% !important; */
+                                            }
+                                            .about-wrapper .cus {
+                                                overflow: hidden;
+                                                height: 85vh;
+                                            }
+                                            .about-wrapper .pom {
+                                                margin-top: -50px;
+                                            }
+                                            .about-wrapper footer {
+                                                top: 0
+                                            }
+                                            .about-wrapper .lowerfooter {
+                                                margin-top: 0px;
+                                            }
+                                            .formsection {
+                                                position: relative;
+                                                top: 190px;
+                                            }
+                                            .char3 {
+                                                width: 40.9375vw;
+                                                bottom: -110px;
+                                                right: -68px;
+                                            }
+                                            .htss footer {
+                                                margin-top: 100px;
+                                            }
+                                            .loginpage footer {
+                                                margin-top: 100px;
+                                            }
+                                            .account .in-box {
+                                                width: 200px;
+                                            }
+                                            .account .btns a {
+                                                left: 0px;
+                                            }
+                                            .account footer {
+                                                margin-top: 100px;
+                                            }
+                                            .grapic-1 h4 {
+                                                width: 20%;
+                                                margin-top: 20px !important;
+                                                /* margin: 20px 0; */
+                                                text-align: center;
+                                            }
+                                        }
+                                        
+                                        @media screen and (max-height: 600px) {
+                                            .bg .top-sellers {
+                                                height: 160vh;
+                                            }
+                                            .formsection {
+                                                position: relative;
+                                                top: 250px;
+                                            }
+                                            .htss footer {
+                                                margin-top: 200px;
+                                            }
+                                            .lowerline {
+                                                bottom: 0px;
+                                            }
+                                        }
+                                        
+                                        @media screen and (min-width: 992px) {}

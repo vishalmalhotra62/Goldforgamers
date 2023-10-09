@@ -1,0 +1,292 @@
+.final-fantasy {
+    position: relative;
+    background: url(../media/images/final_img1.png);
+    /* opacity: 0.4; */
+    height: 62vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.elder-scrolls {
+    position: relative;
+    background: url(../media/images/elder_img1.png);
+    /* opacity: 0.4; */
+    height: 62vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.rocket-league {
+    position: relative;
+    background: url(../media/images/rocket_img1.png);
+    /* opacity: 0.4; */
+    height: 62vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.fallout {
+    position: relative;
+    background: url(../media/images/fallout_img1.png);
+    /* opacity: 0.4; */
+    height: 62vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.dc {
+    position: relative;
+    background: url(../media/images/dc_img1.png);
+    /* opacity: 0.4; */
+    height: 62vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.lotr {
+    position: relative;
+    background: url(../media/images/lotr_img1.png);
+    /* opacity: 0.4; */
+    height: 62vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.warframe {
+    position: relative;
+    background: url(../media/images/warframe_img1.png);
+    /* opacity: 0.4; */
+    height: 62vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.swords {
+    position: relative;
+    background: url(../media/images/swords_img1.png);
+    /* opacity: 0.4; */
+    height: 62vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.fortnite {
+    position: relative;
+    background: url(../media/images/fortnite_img1.png);
+    /* opacity: 0.4; */
+    height: 62vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.warcraft {
+    position: relative;
+    background: url(../media/images/warcraft_img1.png);
+    /* opacity: 0.4; */
+    background-repeat: no-repeat;
+    height: 62vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.aion {
+    position: relative;
+    background: url(../media/images/aion_img1.png);
+    /* opacity: 0.4; */
+    height: 62vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.starwars {
+    position: relative;
+    background: url(../media/images/starwars_img1.png);
+    /* opacity: 0.4; */
+    height: 62vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.formsection .in-box {
+    position: relative;
+    width: 224px;
+}
+
+.three .formsection .tapper {
+    margin: 0 !important;
+}
+
+.popup .in-box {
+    width: 400px;
+}
+
+.popup .formsection {
+    top: 0 !important;
+}
+
+.three .formsection .tapper:nth-child(3) .in-box {
+    position: relative;
+    width: 300px !important;
+}
+
+.guilds {
+    position: relative;
+    background: url(../media/images/guild_img1.png);
+    /* opacity: 0.4; */
+    height: 62vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.nba {
+    position: relative;
+    background: url(../media/images/nba_img1.png);
+    /* opacity: 0.4; */
+    height: 62vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.fantasy {
+    position: relative;
+    display: block;
+    clip-path: polygon(8% 0, 80% 0%, 100% 0, 100% 80%, 92% 100%, 0 100%, 0% 80%, 0% 20%);
+    background: white;
+    text-align: center;
+    color: black;
+    padding: 15px;
+    margin: 50px;
+}
+
+.fantasy::after {
+    content: '';
+    position: absolute;
+    -moz-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    background: lightblue;
+    left: -40px;
+    top: -100px;
+}
+
+.form {
+    padding: 10vh;
+    max-width: 200px;
+    margin: auto;
+}
+
+.form .input {
+    position: relative;
+    height: 40px;
+}
+
+.form .input::after,
+.form .input::before {
+    content: "";
+    position: absolute;
+    z-index: 2;
+    height: 14px;
+    background: #fff;
+    width: 14px;
+}
+
+.form .input::before {
+    top: 0;
+    left: 0;
+    border-bottom: 1px solid red;
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    transform: translate(-50%, -50%) rotate(-45deg);
+}
+
+.form .input::after {
+    bottom: 0;
+    right: 0;
+    border-top: 1px solid red;
+    clip-path: polygon(50% 100%, 0 0, 100% 0);
+    transform: translate(50%, 50%) rotate(-45deg);
+}
+
+.form .input select {
+    border: 1px solid red;
+    padding: 10px;
+    outline: none;
+    box-shadow: none;
+    width: 100%;
+    height: 100%;
+}
+
+.d1 {
+    width: 180px;
+    height: 55px;
+}
+
+.button {
+    --border-color: black;
+    --border-width: 0.5em;
+    --edge-size: 1.1em;
+    cursor: pointer;
+    background: var(--background-color);
+    padding: 0.5em 1.5em;
+    border: 0;
+    position: relative;
+    isolation: isolate;
+    display: inline-grid;
+    place-content: center;
+    clip-path: polygon( var(--edge-size) 0%, 100% 0, 100% calc(100% - var(--edge-size)), calc(100% - var(--edge-size)) 100%, 0 100%, 0% var(--edge-size));
+    transition: color 250ms;
+}
+
+.button::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: var(--border-color);
+    z-index: -2;
+}
+
+.button::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: var(--background-color);
+    z-index: -1;
+    clip-path: polygon( top left 1 var(--border-width) calc(var(--edge-size) + var(--border-width) * 0.5), top left 2 calc(var(--edge-size) + var(--border-width) * 0.5) var(--border-width), top right calc(100% - var(--border-width)) var(--border-width), bottom right - 1 calc(100% - var(--border-width)) calc(100% - calc(var(--edge-size) + var(--border-width) * 0.5)), bottom right - 2 calc(100% - calc(var(--edge-size) + var(--border-width) * 0.5)) calc(100% - var(--border-width)), bottom left calc(var(--border-width)) calc(100% - var(--border-width)));
+    transition: clip-path 500ms;
+}
+
+.button1 {
+    --background-color: white;
+    --border-color: linear-gradient(to bottom right, red, blue);
+    --border-width: 0.5em;
+    --edge-size: 0.5em;
+    cursor: pointer;
+    background: var(--background-color);
+    padding: 0.5em 1.5em;
+    border: 0;
+    position: relative;
+    isolation: isolate;
+    display: inline-grid;
+    place-content: center;
+    clip-path: polygon( var(--edge-size) 0%, 100% 0, 100% calc(100% - var(--edge-size)), calc(100% - var(--edge-size)) 100%, 0 100%, 0% var(--edge-size));
+    transition: color 250ms;
+}
+
+.button1::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: var(--border-color);
+    z-index: -2;
+}
+
+.button1::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: var(--background-color);
+    z-index: -1;
+    clip-path: polygon( top left 1 var(--border-width) calc(var(--edge-size) + var(--border-width) * 0.5), top left 2 calc(var(--edge-size) + var(--border-width) * 0.5) var(--border-width), top right calc(100% - var(--border-width)) var(--border-width), bottom right - 1 calc(100% - var(--border-width)) calc(100% - calc(var(--edge-size) + var(--border-width) * 0.5)), bottom right - 2 calc(100% - calc(var(--edge-size) + var(--border-width) * 0.5)) calc(100% - var(--border-width)), bottom left calc(var(--border-width)) calc(100% - var(--border-width)));
+    transition: clip-path 500ms;
+}

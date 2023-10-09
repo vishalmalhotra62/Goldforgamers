@@ -1,0 +1,1118 @@
+@media (min-width: 1600px) {
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl {
+        max-width: 1440px;
+    }
+}
+
+@media (min-width: 1400px) {
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl {
+        max-width: 1260px;
+    }
+}
+
+@media (min-width: 1300px) {
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl {
+        max-width: 1200px;
+    }
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+@font-face {
+    font-family: 'BloodstainPersonalUseBold';
+    src: url('../fonts/BloodstainPersonalUseBold-1GM30.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Suisse Int'l Trial";
+    src: url('../fonts/SuisseIntl-Medium-WebTrial.woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #EBEBEB;
+    font-family: "Suisse Int'l Trial";
+}
+
+.fs14 {
+    font-size: 0.92vw;
+}
+
+.fs16 {
+    font-size: 1.1vw;
+    /* font-size: 16px; */
+    font-weight: normal;
+}
+
+.fs24 {
+    font-size: 1.3vw;
+}
+
+.fs48 {
+    font-size: 2.8vw
+}
+
+.fs128 {
+    font-size: 6.7vw;
+}
+
+.ff-Suisse {
+    font-family: "Suisse Int'l Trial";
+}
+
+.ff-Bloodstain {
+    font-family: "BloodstainPersonalUseBold";
+}
+
+.main-heading {
+    width: 50vw
+}
+
+.mnav {
+    display: none;
+}
+
+.navbar {
+    height: 80px;
+    background-color: #F4F4F4;
+}
+
+.navbar .row,
+footer .row {
+    --bs-gutter-x: 0 !important;
+}
+
+.line-wrapper {
+    height: 80px;
+}
+
+.right {
+    right: 0;
+    top: 0;
+    height: 80px;
+    transform: scale(-1, -1);
+}
+
+.nav-item {
+    color: black;
+    font-family: "Suisse Int'l Trial";
+    font-size: 14px;
+    /* letter-spacing: 1.25%; */
+    font-weight: 500;
+}
+
+.navs {
+    right: 100px
+}
+
+.nav-item .nav-link.active {
+    position: relative;
+    width: 100%;
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+
+.nav-item .active::before {
+    content: '';
+    position: absolute;
+    width: 35%;
+    height: 4px;
+    background-color: black;
+    bottom: -2.5px;
+    left: -18.5%;
+    margin-left: 50%;
+}
+
+.navbar-toggler {
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.navbar-toggler span {
+    display: block;
+    line-height: 0;
+    height: 3px;
+    width: 25px;
+    background-color: #24292d;
+    margin: 0 0 5px;
+    transition: transform 0.1s linear;
+}
+
+.navbar-toggler[aria-expanded="true"] span:nth-child(1) {
+    transform: rotate(45deg) translate(6px, 0px);
+}
+
+.navbar-toggler[aria-expanded="true"] span:nth-child(2) {
+    transform: rotate(-45deg) translate(5px, 0px);
+}
+
+.navbar-toggler[aria-expanded="true"] span:nth-child(3) {
+    opacity: 0;
+}
+
+.border-icon {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    border-right: 1px solid rgb(0, 0, 0) !important;
+}
+
+.border-icon::before {
+    content: '';
+    position: absolute;
+    width: 4px;
+    height: 20px;
+    background-color: black;
+    right: 50%;
+    margin-right: -2.5px;
+    /* left: -18.5%; */
+    /* margin-left: 50%; */
+    top: 50%;
+    margin-top: -10px;
+}
+
+.img1 {
+    position: absolute;
+    width: 60.16%;
+    height: 1480px;
+    top: -162px;
+    left: -9.7%;
+    background: linear-gradient(270deg, #F9F9F9 0%, rgba(244, 244, 244, 0) 16.75%), url(../media/images/zoltan-tasi-yURb9KJ8vdc-unsplash.jpg);
+    mix-blend-mode: darken;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.hero .texture {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 1024.8px;
+    background: url(../media/images/metal-texture-with-dust-scratches-cracks-textured-backgrounds\ 1.png);
+    opacity: 0.4;
+    /* z-index: ; */
+}
+
+.hero .line {
+    position: relative;
+    margin-left: 40.9%;
+    top: 168px;
+}
+
+.hero .line svg {
+    height: 704px;
+    width: 88.8px;
+}
+
+.home .hero-text h4 .line1 {
+    display: none;
+}
+
+.hero .hero-text {
+    position: relative;
+    width: 48.59%;
+    top: 294.4px;
+}
+
+.hero .hero-text .lines {
+    width: 454.4px;
+    border-bottom: 1px solid black
+}
+
+.bg .hero {
+    height: 100vh;
+}
+
+.bg .hero-text h2 {
+    width: 40%;
+}
+
+.button {
+    clip-path: url(#my-clip-path);
+    background-color: black;
+    border: none;
+    outline: none;
+    position: relative;
+    width: 156px;
+    height: 55px;
+}
+
+.button .inside {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    position: absolute;
+    width: 98%;
+    height: 94%;
+    top: 2%;
+    left: 1%;
+    margin: auto;
+    clip-path: url(#my-clip-path);
+}
+
+.img2 {
+    position: absolute;
+    width: 45.814%;
+    height: 100%;
+    top: -43px;
+    right: 0%;
+    background: url(../media/images/flying_Asset.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 3;
+}
+
+.about-text {
+    position: relative;
+    width: 52.74%;
+    /* top: 724.4px; */
+    left: 13%;
+    margin-top: 560px;
+}
+
+.about-text h2,
+.hero-text h2 {
+    line-height: 82%;
+}
+
+.about .about-line {
+    width: 100%;
+    top: -30px;
+    left: 23%;
+    z-index: 1;
+}
+
+.about .about-line svg {
+    width: 1150px;
+    height: 367px;
+}
+
+.comp {
+    position: relative;
+    top: 100px;
+}
+
+.comp .line-wrapper {
+    height: 200px;
+}
+
+.comp .right {
+    right: 0;
+    top: 0;
+    height: 200px;
+    transform: scale(-1, -1);
+}
+
+.game-cards .img-box {
+    clip-path: polygon(7% 0, 100% 0, 100% 94%, 92% 100%, 0 100%, 0% 60%, 0 6%);
+}
+
+.top-sellers {
+    position: relative;
+    /* background: url(../media/images/metal-texture-with-dust-scratches-cracks-textured-backgrounds\ 1.png); */
+    /* opacity: 0.4; */
+    height: 130vh;
+    top: 100px;
+    padding: 0 70px !important;
+}
+
+.top-sellers .texture {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url(../media/images/metal-texture-with-dust-scratches-cracks-textured-backgrounds\ 1.png);
+    opacity: 0.4;
+    z-index: -1;
+}
+
+.top-sellers h2 {
+    top: 120px;
+}
+
+.grapic-1 h4 {
+    width: 14.5%;
+}
+
+
+/* .upper-design {
+    width: 100%;
+    height: 200px;
+    position: absolute;
+    clip-path: polygon(34% 1%, 70% 14%, 100% 0, 100% 100%, 0 100%, 0 0, 13% 8%);
+    z-index: 1;
+    background-color: #ffffff; */
+
+
+/* } */
+
+.back {
+    clip-path: polygon(32% 0%, 70% 3%, 100% 0, 100% 100%, 0 100%, 0 0, 11% 1%);
+    position: absolute;
+    background-color: #0E0E0E;
+    width: 100%;
+    height: 170vh;
+    z-index: -1;
+}
+
+.how-to-sell {
+    position: relative;
+    top: 80px;
+    height: 155vh;
+}
+
+.how-to-sell .img-boxes.imgM1 {
+    z-index: 1;
+    width: 82%;
+    margin-top: -67px
+}
+
+.htslower-line {
+    position: absolute;
+    bottom: -28px;
+    left: 79px;
+}
+
+.how-to-sell .img-boxes.imgM {
+    z-index: 2;
+    width: 63.33%;
+    right: 0;
+    margin-top: -200px
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+.img-box {
+    height: 90vh;
+}
+
+.hts-graphic {
+    display: none;
+    margin: 22%;
+    /* width: 1155px; */
+}
+
+.games_slider {
+    display: none !important;
+}
+
+.hts-graphic1 {
+    /* left: 180px; */
+    top: -68px;
+    /* display: none; */
+    margin: 0 40px;
+    width: 1295px;
+    /* width: 1155px; */
+}
+
+.htc-g1 {
+    width: 1155px;
+}
+
+.htc-g2 {
+    position: absolute;
+    left: 19%;
+    top: 10px;
+}
+
+.htc-g2 {
+    position: absolute;
+    left: 30%;
+    top: 7.5px
+}
+
+.hts-text {
+    position: relative;
+    width: 52.74%;
+    /* top: 724.4px; */
+    left: 13%;
+}
+
+.hts-text .button {
+    background-color: #fff !important;
+}
+
+footer {
+    width: 100%;
+    height: 50vh;
+    background-color: #E8E8E8;
+    top: 110px;
+    position: relative;
+}
+
+footer .content {
+    margin-left: 81px;
+    box-sizing: border-box
+}
+
+footer .logo {
+    width: 300px;
+}
+
+.upperline {
+    top: 50px;
+}
+
+.lowerline {
+    bottom: 0;
+    right: 0;
+}
+
+.visa-img {
+    height: 37px;
+    margin-top: -35px;
+    width: 209px
+}
+
+.lowerfooter {
+    height: 100px;
+}
+
+.lowerfooter p {
+    width: 30%;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+
+/* About page */
+
+.about-wrapper .aboutline {
+    width: 55vw;
+}
+
+.mobline {
+    display: none !important;
+}
+
+.about-wrapper .hero-text h2,
+.about-wrapper .hero-text p {
+    /* left: ; */
+    position: relative;
+    left: 15.6vw;
+}
+
+.about-wrapper .img-box {
+    position: relative;
+    z-index: 2;
+    width: 46.46875vw;
+    top: 20px;
+}
+
+.about-wrapper .cus {
+    position: relative;
+    z-index: 2;
+}
+
+.about-wrapper .cus .back {
+    clip-path: polygon(26% 5%, 58% 0, 100% 3%, 100% 92%, 48% 100%, 0 92%, 0 0) !important;
+    height: 100vh;
+}
+
+.mobimg {
+    display: none;
+}
+
+.about-wrapper .cus .img-boxes {
+    width: 70.05208333333334vw;
+    height: 100vh;
+    background: url(/assets/media/images/aboutImage2.png);
+    mix-blend-mode: lighten;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0;
+}
+
+.about-wrapper .cus .about-text {
+    top: 0;
+    left: 0px;
+    position: relative;
+    /* margin-left: -90px; */
+    margin-top: 0;
+}
+
+.about-wrapper .pom .hero-text h2,
+.about-wrapper .pom .hero-text p {
+    /* left: ; */
+    position: relative;
+    left: 11.6vw;
+}
+
+.about-wrapper .pom .hero-text {
+    top: 0;
+}
+
+.about-wrapper footer {
+    position: relative;
+    top: 0;
+}
+
+.aboutline3 {
+    top: 0px;
+    margin-left: -70px;
+    width: 47.578125vw
+}
+
+
+/* End About page */
+
+
+/* how to sell page */
+
+.tapperbox {
+    width: 35vw;
+}
+
+.tapperbox::before {
+    content: "";
+    position: absolute;
+    top: 30px;
+    width: 100%;
+    height: 300px;
+    left: 17px;
+    background-color: #A67122;
+    opacity: 0.3;
+    filter: blur(32px);
+    z-index: -1;
+}
+
+.tapperbox .text .number {
+    font-size: 3.125vw;
+    font-family: 'Roboto', sans-serif;
+    color: #D09E53;
+    font-weight: bold;
+}
+
+.tapperbox .text h3 {
+    font-size: 2.5vw;
+}
+
+.box {
+    clip-path: polygon(10.78% 1px, 70% 0%, 100% 0px, 100% 80%, 87.54% 100.30%, 30% 100%, 0px 100%, 0px 20%);
+    background-color: #D0D0D0;
+    border: none;
+    outline: none;
+    position: relative;
+    width: 100%;
+    height: 340px;
+    border: 2px solid #D0D0D0;
+}
+
+.box .inside {
+    background-color: white;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    margin: auto;
+    clip-path: polygon(10.78% 1px, 70% 0%, 100% 0px, 100% 80%, 87.54% 100.30%, 30% 100%, 0px 100%, 0px 20%);
+}
+
+.char-box {
+    z-index: 2;
+}
+
+.char1 {
+    width: 28.645833333333332vw;
+    top: 211px;
+    left: -158px;
+}
+
+.char2 {
+    width: 20vw;
+    top: 144px;
+    right: -102px;
+}
+
+.char3 {
+    width: 34.938vw;
+    bottom: -223px;
+    right: -8px;
+}
+
+.tapper {
+    /* clip-path: polygon(0 40.00px, 40.00px 0, 100% 0, 100% calc(100% - 40.00px), calc(100% - 40.00px) 100%, 0 100%, 0 40.00px, 1px calc(40.00px + 0.41px), 1px calc(100% - 1px), calc(100% - 40.00px - 0.41px) calc(100% - 1px), calc(100% - 1px) calc(100% - 40.00px - 0.41px), calc(100% - 1px) 1px, calc(40.00px + 0.41px) 1px, 1px calc(40.00px + 0.41px)); */
+    clip-path: polygon(0 55.00px, 55.00px 0, 100% 0, 100% calc(100% - 55.00px), calc(100% - 55.00px) 100%, 0 100%);
+    width: 75vw;
+    height: 826px;
+    /* background-color: red; */
+    position: relative;
+    margin-top: 60px;
+    margin-left: 1px;
+}
+
+.formsection .in-box {
+    position: relative;
+    width: 300px;
+    clip-path: polygon(0 16.00px, 16.00px 0, 100% 0, 100% calc(100% - 16.00px), calc(100% - 16.00px) 100%, 0 100%);
+    height: 55px;
+    border: 1px solid black;
+    background-color: black;
+    z-index: -1;
+    overflow: visible !important;
+}
+
+.formsection .in-box .inside {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    clip-path: polygon(0 16.00px, 16.00px 0, 100% 0, 100% calc(100% - 16.00px), calc(100% - 16.00px) 100%, 0 100%);
+    background-color: white;
+    z-index: -1;
+    overflow: visible !important;
+}
+
+.formsection .textarea {
+    height: 200px;
+}
+
+.formsection textarea {
+    height: 200px !important;
+}
+
+.formsection input,
+.formsection select,
+.formsection a,
+.formsection textarea {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    outline: none;
+    border: none;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background: transparent;
+    padding: 0 20px;
+    font-weight: bold;
+}
+
+.formsection select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: transparent;
+    background-image: url("data:image/svg+xml;utf8,<svg fill='black' height='24' viewBox='0 0 24 24' width='24' xmlns='http://www.w3.org/2000/svg'><path d='M7 10l5 5 5-5z'/><path d='M0 0h24v24H0z' fill='none'/></svg>");
+    background-repeat: no-repeat;
+    background-position-x: 90%;
+    background-position-y: 15px;
+    /* border: 0px solid #dfdfdf; */
+    border-radius: 0px;
+    margin-right: 2rem;
+    padding: 1rem;
+    padding-right: 2rem;
+    font-weight: lighter !important;
+}
+
+.formsection select:focus {
+    font-weight: bold !important;
+}
+
+.mobdash {
+    display: none;
+}
+
+.formsection form span {
+    /* padding: 10px; */
+    padding: 15px 22px;
+    pointer-events: none;
+    position: absolute;
+    left: 0;
+    top: 0px;
+    transition: 0.2s;
+    transition-timing-function: ease;
+    transition-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
+    opacity: 1;
+    z-index: 99;
+    /* background-color: red; */
+    /* transform: scale(0.75) translateY(-100%) translateX(-30px); */
+    /* width: 100%;
+    height: 100%; */
+}
+
+.formsection form input:focus+span,
+input:not(:placeholder-shown)+span {
+    opacity: 1;
+    transform: translateY(-97%) translateX(15px);
+    background: white;
+    display: inline-block;
+    height: 24px;
+    padding: 10px;
+}
+
+
+/* For IE Browsers*/
+
+.formsection form input:focus+span,
+input:not(:-ms-input-placeholder)+span {
+    opacity: 1;
+    transform: translateY(-97%) translateX(15px);
+    background: white;
+    display: inline-block;
+    height: 24px;
+    padding: 10px;
+}
+
+.formsection form .error .in-box {
+    border: 1px solid #C81414 !important;
+    background-color: #C81414 !important;
+}
+
+.formsection form .success .in-box {
+    border: 1px solid #007800 !important;
+    background-color: #007800 !important;
+}
+
+.formsection form .success input {
+    color: #007800 !important;
+}
+
+.formsection form .error input {
+    color: #C81414 !important;
+}
+
+.formsection form .checkbox .in-box {
+    width: 37px !important;
+    height: 35px !important;
+    clip-path: polygon(0 8.00px, 8.00px 0, 100% 0, 100% calc(100% - 8.00px), calc(100% - 8.00px) 100%, 0 100%) !important;
+}
+
+.formsection form .checkbox .in-box .inside {
+    clip-path: polygon(0 8.00px, 8.00px 0, 100% 0, 100% calc(100% - 8.00px), calc(100% - 8.00px) 100%, 0 100%) !important;
+}
+
+.formsection form .checkbox .styledcheckbox {
+    background-color: red !important;
+    /* display: none; */
+    position: absolute;
+    left: 0px;
+    top: 10px;
+    width: 37px;
+    height: 35px;
+    /* z-index: -1; */
+    /* visibility: hidden; */
+    opacity: 0;
+    /* background-color: transparent; */
+}
+
+
+/* .formsection form .checkbox label:before {
+    content: '';
+    -webkit-appearance: none;
+    background-color: transparent;
+    border: 2px solid #000000;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05), inset 0px -15px 10px -12px rgba(0, 0, 0, 0.05);
+    padding: 10px;
+    display: inline-block;
+    position: relative;
+    vertical-align: middle;
+    cursor: pointer;
+    margin-right: 5px;
+} */
+
+.tick {
+    display: none;
+    position: absolute;
+    top: 15px;
+    left: 13px;
+    width: 8px;
+    height: 16px;
+    border: solid #000000;
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+}
+
+.formsection form .checkbox input:checked~.tick {
+    display: block;
+}
+
+
+/* end how to sell page */
+
+
+/* login */
+
+.loginpage .formsection .tapper {
+    width: 46.40625vw;
+    height: 451px;
+}
+
+.loginpage .tapper-btn-l {
+    width: 150px;
+    height: 55px;
+    clip-path: polygon(0 16.00px, 16.00px 0, 100% 0, 100% 100%, 0 100%);
+    border: none;
+    outline: none;
+}
+
+.loginpage .tapper-btn-r {
+    width: 150px;
+    height: 55px;
+    clip-path: polygon(0 0, 100% 0, 100% calc(100% - 16.00px), calc(100% - 16.00px) 100%, 0 100%);
+    border: none;
+    outline: none;
+    position: relative;
+    z-index: 1;
+    background-color: rgb(0, 0, 0);
+}
+
+
+/* 
+.loginpage li .in-box {
+    position: relative;
+    width: 300px;
+    clip-path: polygon(0 0, 100% 0, 100% calc(100% - 16.00px), calc(100% - 16.00px) 100%, 0 100%);
+    height: 55px;
+    border: 1px solid black;
+    background-color: black;
+    z-index: -1;
+    overflow: visible !important;
+}
+
+.loginpage li .in-box .inside {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    clip-path: polygon(0 0, 100% 0, 100% calc(100% - 16.00px), calc(100% - 16.00px) 100%, 0 100%);
+    background-color: white;
+    z-index: -1;
+    overflow: visible !important;
+} */
+
+
+/* 
+.loginpage .tappertab .in-box {
+    position: relative;
+    clip-path: polygon(0 16.00px, 16.00px 0, 100% 0, 100% calc(100% - 16.00px), calc(100% - 16.00px) 100%, 0 100%);
+    border: 1px solid black;
+    background-color: black;
+    z-index: -1;
+    overflow: visible !important;
+}
+
+.loginpage .tappertab .in-box .inside {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    clip-path: polygon(0 16.00px, 16.00px 0, 100% 0, 100% calc(100% - 16.00px), calc(100% - 16.00px) 100%, 0 100%);
+    background-color: white;
+    z-index: -1;
+    overflow: visible !important;
+} */
+
+.loginpage .tappertab a {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    outline: none;
+    border: none;
+    z-index: 1;
+    top: 0;
+    left: 30px;
+    text-align: center;
+    background: transparent;
+    padding: 0 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginpage .tappertab a:focus {
+    outline: none !important;
+    box-shadow: none;
+}
+
+.loginpage .tappertab .btn1 .in-box {
+    width: 150px;
+    height: 55px;
+    clip-path: polygon(0 16.00px, 16.00px 0, 100% 0, 100% 100%, 0 100%) !important;
+}
+
+.loginpage .tappertab .btn1 .in-box .inside {
+    background-color: #000000;
+    clip-path: polygon(0 16.00px, 16.00px 0, 100% 0, 100% 100%, 0 100%) !important;
+}
+
+.loginpage .tappertab .btn2 .in-box {
+    width: 150px;
+    height: 55px;
+    clip-path: polygon(0px 0px, 16px 0px, 100% 0px, 100% calc(100% - 16px), calc(100% - 16px) 100%, 0px 100%) !important;
+}
+
+.loginpage .tappertab .btn2 .in-box .inside {
+    background-color: #ffffff;
+    clip-path: polygon(0px 0px, 16px 0px, 100% 0px, 100% calc(100% - 16px), calc(100% - 16px) 100%, 0px 100%) !important;
+}
+
+.loginpage .loginimg1 {
+    width: 28.177083333333336vw;
+    /* height: 841px; */
+    bottom: -79px;
+    right: 135px;
+    z-index: -1;
+}
+
+.loginpage .loginimg2 {
+    width: 28.229166666666668vw;
+    /* height: 542px; */
+    bottom: -121px;
+}
+
+
+/* end login */
+
+.signupform .tapper {
+    height: 507px !important;
+}
+
+
+/* end signup */
+
+
+/* account */
+
+.account .hero {
+    height: 60vh
+}
+
+.account .hero-text {
+    /* top: 100px; */
+    top: 222.4px
+}
+
+.account .in-box {
+    position: relative;
+    width: 300px;
+    clip-path: polygon(0 16.00px, 16.00px 0, 100% 0, 100% calc(100% - 16.00px), calc(100% - 16.00px) 100%, 0 100%);
+    height: 55px;
+    border: 1px solid black;
+    background-color: black;
+    z-index: -1;
+    overflow: visible !important;
+}
+
+.account .in-box .inside {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    clip-path: polygon(0 16.00px, 16.00px 0, 100% 0, 100% calc(100% - 16.00px), calc(100% - 16.00px) 100%, 0 100%);
+    background-color: white;
+    z-index: -1;
+    overflow: visible !important;
+}
+
+.img2line {
+    display: none;
+}
+
+.account .btns a {
+    text-transform: uppercase;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    outline: none;
+    border: none;
+    z-index: 1;
+    top: 0;
+    left: 30px;
+    background: transparent;
+    padding: 0 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dashtext p {
+    width: 32.822916666666664vw;
+    line-height: 25.13px;
+}
+
+.dashtext h2 {
+    font-size: 2.5vw;
+}
+
+.tab a:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.tab.active .inside {
+    background-color: #000000 !important;
+}
+
+.tab.active a {
+    color: white !important;
+}
+
+
+/* end account */
+
+
+/* order */
+
+.dashorders .tapper {
+    width: 100%;
+    height: 294px;
+    border: 1px solid #D0D0D0;
+    background-color: #D0D0D0;
+    position: relative;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+.ms {
+    visibility: hidden;
+}
+
+.dashorders .tapper .inside {
+    /* clip-path: polygon(0 40.00px, 40.00px 0, 100% 0, 100% calc(100% - 40.00px), calc(100% - 40.00px) 100%, 0 100%, 0 40.00px, 1px calc(40.00px + 0.41px), 1px calc(100% - 1px), calc(100% - 40.00px - 0.41px) calc(100% - 1px), calc(100% - 1px) calc(100% - 40.00px - 0.41px), calc(100% - 1px) 1px, calc(40.00px + 0.41px) 1px, 1px calc(40.00px + 0.41px)); */
+    clip-path: polygon(0 55.00px, 55.00px 0, 100% 0, 100% calc(100% - 55.00px), calc(100% - 55.00px) 100%, 0 100%);
+    width: 100%;
+    height: 100%;
+    /* background-color: red; */
+    position: relative;
+}
+
+.headings {
+    color: #D09E53;
+}
+
+
+/* end order */
